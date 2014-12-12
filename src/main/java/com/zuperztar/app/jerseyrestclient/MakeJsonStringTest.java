@@ -53,7 +53,7 @@ public class MakeJsonStringTest {
 			JsonArrayBuilder ab = factory.createArrayBuilder();
 
 			obj_1.add("name", "zuperztar");
-			obj_1.add("email", "zuperztar27@gmail.com");
+			obj_1.add("email", "zuperztar27@email.com");
 
 			obj_2.add("language", "Java");
 			obj_2.add("grade", "Advanced");
